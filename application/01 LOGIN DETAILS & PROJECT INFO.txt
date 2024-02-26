@@ -1,0 +1,11 @@
+Database Name: empattendanceci
+
+Developed by Syafa Ilyas Al Muzani
+
+Recommended PHP Version 7.4
+
+HRD Admin Login Detail:
+Username: admin
+Password: Password@123
+
+For employee login, please create one from HRD admin panel.
